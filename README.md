@@ -17,8 +17,8 @@
 [^hardhat]: https://hardhat.org/
 [^solidity]: https://docs.soliditylang.org
 
-[contributors-shield]: https://img.shields.io/github/contributors/changbobbyliu/changbobbyliu?style=for-the-badge&logo=wechat&logoColor=white&label=TEAM&logoWidth=20&color=abcdef
-[contributors-url]: https://github.com/changbobbyliu/changbobbyliu/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/changbobbyliu/changbobbyliu?style=for-the-badge&logo=slack&logoColor=white&label=TEAM&logoWidth=20&color=abcdef
+[contributors-url]: https://join.slack.com/t/misocode/shared_invite/zt-1brn7xod3-kwt~Gn5~iRr9yYBfXoDTMw
 
 
 [REFERENCED PROJECTS]: #

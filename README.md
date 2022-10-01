@@ -7,6 +7,7 @@
 - 👀 I’m interested in MERN, Native Mobile App
 - 🌱 I’m currently learning Hardhat[^hardhat] + Solidity[^solidity]
 - 💞️ I’m looking to collaborate on <ins>Blockchain Hackathons</ins>
+- ☕️ I'm a co-host for the [LTC meetup group](https://www.meetup.com/learnteachcode/)
 
 | STATS |
 | :----: |
